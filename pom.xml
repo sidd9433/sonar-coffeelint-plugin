@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.sonar.plugins</groupId>
 	<artifactId>sonar-coffeelint</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>pom</packaging>
 
 	<modules>
@@ -54,13 +54,9 @@
 	</dependencies>
 	<name>Sonar-Coffeelint</name>
 	<description>Sonarqube plugin to analyse coffeescript files based on http://coffeelint.org</description>
-	<url>https://github.com/dbac2002/sonar-coffeelint-plugin</url>
-	<organization>
-		<name>Cetrea</name>
-		<url>http://www.cetrea.com</url>
-	</organization>
+	<url>https://github.com/sidd9433/sonar-coffeelint-plugin</url>
 	<issueManagement>
-		<url>https://github.com/dbac2002/sonar-coffeelint-plugin/issues</url>
+		<url>https://github.com/sidd9433/sonar-coffeelint-plugin/issues</url>
 		<system>GitHub Issues</system>
 	</issueManagement>
 
@@ -73,8 +69,8 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/dbac2002/sonar-coffeelint-plugin</url>
-		<connection>scm:git:git://github.com/dbac2002/sonar-coffeelint-plugin.git</connection>
-		<developerConnection>scm:git:git@github.com/dbac2002/sonar-coffeelint-plugin.git</developerConnection>
+		<url>https://github.com/sidd9433/sonar-coffeelint-plugin</url>
+		<connection>scm:git:git://github.com/sidd9433/sonar-coffeelint-plugin.git</connection>
+		<developerConnection>scm:git:git@github.com/sidd9433/sonar-coffeelint-plugin.git</developerConnection>
 	</scm>
 </project>
